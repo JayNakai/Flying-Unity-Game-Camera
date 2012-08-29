@@ -1,0 +1,8 @@
+Library/
+Temp/
+Output/
+*.sln
+*.csproj
+*.userprefs
+*.pidb
+*.DS_Store
